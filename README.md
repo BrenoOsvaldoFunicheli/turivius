@@ -38,8 +38,6 @@ The system consists of a judge legal view API, where the user can view legal dec
 
 * Authentication: The user registry himself with the password and email and can be get the token to access any endpoint to create and delete his registry by request.
 
-* User tracked: In order to provide some security and isolation of registry all user only have access to own registry with exception of the dad tables, such as tecnologies and jobs.
-
 ## :postbox: Testing
 
 Test automation is the use of software to control the execution of the software test, the comparison of the expected results with the actual results, the configuration of the test pre-conditions and other control and test report functions.
