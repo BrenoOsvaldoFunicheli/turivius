@@ -148,4 +148,3 @@ So when you access token through the url [uri]/api/v1/[resource] you can get two
 
 * Because of the time consuming, I don't provide the heroku deploy and import_script(to get data on drive), but it's simple to implement and test;
 
-* I put the git flow, but I use a few this resource.
