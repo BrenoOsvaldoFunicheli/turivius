@@ -139,3 +139,13 @@ As the API was implemented with JWT tokens all access on the endpoints are do wi
 ### Token duration
 
 So when you access token through the url [uri]/api/v1/[resource] you can get two values on the payload response, first is the access token, with it, you can access the endpoint for 5 minutes, after you need used the refresh endpoint that gives the token to access for 24 hours.  
+
+### Observations
+
+* The first note is the fact of .env is at this repository. It's because to this challenge, in real development this pratices is wrong;
+
+* Other thing, it is fact of the doesn't have the extra features on the project, because of the time consuming;
+
+* Because of the time consuming, I don't provide the heroku deploy and import_script(to get data on drive), but it's simple to implement and test;
+
+* I put the git flow, but I use a few this resource.
