@@ -28,6 +28,8 @@ In order to create the real stage API to consuming I follow some best pratice an
 
 * Container Build: I provide the easy start with docker containers that wrapper the network problems, installations problems and virtual environments
 
+* Git-Flow: Approach that allow the flow to create, update and deploy your code on simple steps
+
 ## :blue_book: Requirements
 
 The system consists of a judge legal view API, where the user can view legal decisions about the certain case
